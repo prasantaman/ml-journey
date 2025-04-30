@@ -1,7 +1,3 @@
-# Converting the summary into markdown format without including mistakes
-notes_markdown = """
-# Aaj ki Study Summary (Important Notes)
-
 ## 📌 Pandas Series:
 - A one-dimensional labeled array.
 - Each column in a DataFrame is a Series.
