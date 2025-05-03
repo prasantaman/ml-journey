@@ -158,6 +158,15 @@ time.sleep(3)
 - Always follow the website's `robots.txt` and terms of service.
 
 ---
+| Browser                 | WebDriver Name        | Maintained By    | Download Link                                                                                   |
+| ----------------------- | --------------------- | ---------------- | ----------------------------------------------------------------------------------------------- |
+| **Google Chrome**       | `ChromeDriver`        | Google           | [chromedriver.chromium.org](https://chromedriver.chromium.org)                                  |
+| **Mozilla Firefox**     | `GeckoDriver`         | Mozilla          | [github.com/mozilla/geckodriver](https://github.com/mozilla/geckodriver)                        |
+| **Microsoft Edge**      | `EdgeDriver`          | Microsoft        | [edgedriver - Microsoft](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) |
+| **Safari (macOS only)** | `SafariDriver`        | Apple (Built-in) | Built-in with macOS (No download required)                                                      |
+| **Opera**               | `OperaChromiumDriver` | Opera Software   | [Opera Chromium Driver](https://github.com/operasoftware/operachromiumdriver)                   |
+| **Internet Explorer**   | `IEDriverServer`      | Microsoft        | [Selenium Downloads](https://www.selenium.dev/downloads/)                                       |
+
 
 ## 📁 Summary
 
