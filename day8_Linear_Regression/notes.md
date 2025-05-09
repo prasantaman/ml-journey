@@ -1,6 +1,3 @@
-### 📘 `machine_learning_foundations.md`
-
-````md
 # Machine Learning Foundations – Core Concepts & Optimizations
 
 ---
@@ -218,9 +215,6 @@ Yeh rahe **high-quality structured notes in complete `.md` format**, jisme aaj t
 
 ---
 
-## 📘 File Name Suggestion: `linear_regression_eda_notes.md`
-
-````markdown
 # 📊 Linear Regression – Detailed Notes (GATE + DS Ready)
 
 ---
